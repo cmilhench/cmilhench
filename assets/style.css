@@ -1,0 +1,42 @@
+body {
+  font: 14px/1.3em Futura, Nunito, sans-serif;
+  margin: 0;
+}
+a, a:hover {
+  color: red;
+}
+p {
+  text-align: justify;
+}
+
+#wrapper {
+  min-width: 320px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+header ul {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0;
+  margin-right: 1.4em;
+  list-style-type: none;
+}
+header li {
+  display: inline;
+}
+header img {
+  margin: 2.1em 0 1.4em 0;
+}
+
+header, article, footer {
+  margin: 0 1.4em;
+}
+
+article ul {
+  padding-left: 1.4em;
+}
+article li {
+  line-height: 1.5em;
+}
