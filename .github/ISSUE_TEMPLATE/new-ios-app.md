@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+- [ ] AppUser Created: Used by the App to get and render guest content. If there is no guest content the account is always required for the App to work as expected. If you do not wish to display any guest content then simply do not target any content to the user.
+- [ ] iOSUser Created: This user is presented to Apple for AppStore review. Target all sample content to this user, please ensure that at least one type of the all types of content supported (at least one video, podcast, course and PDF). Note: no equivilent android user is needed
+
 **General:**
 - App name: **App Name**
 
