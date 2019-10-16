@@ -1,6 +1,6 @@
 ---
-name: New iOS App
-about: Describe this issue template's purpose here.
+name: New mobile app
+about: Create a new mobile app request
 title: ''
 labels: 'type:enhancment,area:Android App,area:iOS App'
 assignees: ''
