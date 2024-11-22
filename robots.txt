@@ -1,2 +1,4 @@
 ﻿User-agent: *
-Allow: /
+Disallow:
+
+Sitemap: https://milhen.ch/sitemap.xml
