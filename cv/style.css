@@ -60,7 +60,6 @@ h2 {
 
 @media screen {
     body {
-        xbox-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         margin: 2rem auto;
     }
 }
@@ -72,24 +71,7 @@ h2 {
         box-shadow: none;
     }
 }
-/* 
-article {
-    position: relative;
-    padding-left: 160px;
-    margin-bottom: 3rem;
-}
-article .company-info {
-    position: absolute;
-    left: 0;
-    top: 0;
-    color: #999;
-    width: 180px;
-    text-align: left;
-}
-.company-info h4 {
-    margin: 0 auto;
-    font-size: 1.17em;
-} */
+
  h1 {
     margin-bottom: 0;
 }
